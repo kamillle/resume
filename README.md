@@ -78,8 +78,8 @@ Ruby On Railsを使ったCtoCスキルシェアプラットフォームの開発
 # 活動
 ## OSS
 ### PR
-- [Fix a bug occurs when request spec targets contollers inherited AC::API amatsuda/active_decorator](https://github.com/amatsuda/active_decorator/pull/106)
-- [Allow Doorkeeper::Application#to_json to work without arguments doorkeeper-gem/doorkeeper](https://github.com/doorkeeper-gem/doorkeeper/pull/1309)
+- [Fix a bug occurs when request spec targets contollers inherited AC::API - amatsuda/active_decorator](https://github.com/amatsuda/active_decorator/pull/106)
+- [Allow Doorkeeper::Application#to_json to work without arguments - doorkeeper-gem/doorkeeper](https://github.com/doorkeeper-gem/doorkeeper/pull/1309)
 - [Allow ActiveSupport up to type 7.0 - sider/goodcheck](https://github.com/sider/goodcheck/pull/68)
 - [Fix ActiveRecord query attribute method when given value does't respond to to_i method - rails/rails](https://github.com/rails/rails/pull/35320)
 - [use ActiveSupport.on_load hook for extend ActiveRecord - adzap/validates_timeliness](https://github.com/adzap/validates_timeliness/pull/183)
