@@ -41,8 +41,8 @@
 - [Fix ActiveRecord query attribute method when given value does't respond to to_i method - rails/rails](https://github.com/rails/rails/pull/35320)
 - [use ActiveSupport.on_load hook for extend ActiveRecord - adzap/validates_timeliness](https://github.com/adzap/validates_timeliness/pull/183)
 
-## Issue
+### Issue
 - [Clear up confusion w/ presence around belongs_to associations. (#1214) breaks existing behaviors - thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers/issues/1218)
 
-## Article
+## Posts
 - [accepts_nested_attributes_forを使わず、複数の子レコードを保存する](https://moneyforward.com/engineers_blog/2018/12/15/formobject/)
