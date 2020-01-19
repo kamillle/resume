@@ -14,18 +14,29 @@
 
 # スキル
 - 言語
-  - Ruby：2017/11〜現在
+  - Ruby(2.4/2.5/2.6/2.7)：2017/11〜現在
+  - Go(1.12/1.13)：2019/08〜現在
+  - Python：2017/05〜2018/01
 - フレームワーク
-  - Ruby On Rails(5.1系~, 6系)：2017/11〜現在
+  - Ruby On Rails(5.1/5.2/6.0)：2017/11〜現在
+  - Sinatora
+  - Flask
 - ミドルウェア
-  - MySQL(5.7系)：2018/06〜現在
-  - PostgreSQL(9.6系)：2017/11〜2018/06
+  - MySQL(5.7)：2018/06〜現在
   - Redis：2018/06〜現在
+  - PostgreSQL(9.6)：2017/11〜2018/06
+  - Elasticsearch：2017/11〜2018/06
 - CI/CD
   - CircleCI：2018/06〜現在
   - Jenkins：2018/06〜現在
 - PaaS
   - AWS：2018/06〜現在
+    - ELB
+    - S3
+    - Elasticache
+  - GCP：2019/06〜2019/08
+    - BigQuery
+    - Firebase
   - Heroku：2017/11〜現在
 - プロトコル
   - OpenID Connect：2019/10〜現在
