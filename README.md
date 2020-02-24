@@ -17,13 +17,13 @@
 ## 株式会社Logbii(2018/11〜2019/03)
 ### Webサービス受託開発
 ##### プロダクト概要
-Ruby On Railsを使ったWebサービスの受託開発
+Ruby on Railsを使ったWebサービスの受託開発
 
 #### 業務・役割
 - 要件を元にしたアーキテクチャー・クラス設計、実装、レビュー
 
 #### 技術
-- Ruby On Rails(5.2系)
+- Ruby on Rails(5.2系)
 - MySQL(5.7系)
 - CircleCI
 - Docker
@@ -32,12 +32,12 @@ Ruby On Railsを使ったWebサービスの受託開発
 ## 株式会社cotree(インターン：2017/10〜2018/06)
 ### CtoCスキルシェアマッチングサイトの開発
 #### プロダクト概要
-Ruby On Railsを使ったCtoCスキルシェアプラットフォームの開発
+Ruby on Railsを使ったCtoCスキルシェアプラットフォームの開発
 #### 業務・役割
 - 機能立案、情報設計、実装
 
 #### 技術
-- Ruby On Rails(5.1)
+- Ruby on Rails(5.1)
 - PostgreSQL(9.6)
 - Elasticsearch
 - Heroku
@@ -49,7 +49,7 @@ Ruby On Railsを使ったCtoCスキルシェアプラットフォームの開発
   - Go(1.12/1.13)：2019/08〜現在
   - Python：2017/05〜2018/01
 - フレームワーク
-  - Ruby On Rails(5.1/5.2/6.0)：2017/11〜現在
+  - Ruby on Rails(5.1/5.2/6.0)：2017/11〜現在
   - Sinatora
   - Flask
 - ミドルウェア
