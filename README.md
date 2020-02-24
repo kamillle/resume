@@ -88,4 +88,5 @@ Ruby on Railsを使ったCtoCスキルシェアプラットフォームの開発
 - [Clear up confusion w/ presence around belongs_to associations. (#1214) breaks existing behaviors - thoughtbot/shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers/issues/1218)
 
 ## Posts
+- [ブログ](https://kamillle.hatenablog.com/)
 - [accepts_nested_attributes_forを使わず、複数の子レコードを保存する](https://moneyforward.com/engineers_blog/2018/12/15/formobject/)
