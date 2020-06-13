@@ -4,6 +4,7 @@
 - [職務経歴](https://github.com/kamillle/resume#%E8%81%B7%E5%8B%99%E7%B5%8C%E6%AD%B4)
 - [スキル](https://github.com/kamillle/resume#%E3%82%B9%E3%82%AD%E3%83%AB)
 - [活動](https://github.com/kamillle/resume#%E6%B4%BB%E5%8B%95)
+  - [ポートフォリオ](https://github.com/kamillle/resume#%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA)
   - [OSS](https://github.com/kamillle/resume#oss)
   - [Posts](https://github.com/kamillle/resume#posts)
 
@@ -133,6 +134,11 @@ Ruby on Railsを使ったCtoCスキルシェアプラットフォームの開発
   - OAuth2.0：2017/11〜現在
 
 # 活動
+## ポートフォリオ
+- [remogee](https://remogee.net/)
+  - Zoomによるコミュニケーションが流行ったことからリモートで遊ぶライトなゲームを友人と開発
+  - Nuxt.js, TypeScript, Cloud Firestore, Firebase Hosting
+
 ## OSS
 ### PR
 - [Fix a bug occurs when request spec targets contollers inherited AC::API - amatsuda/active_decorator](https://github.com/amatsuda/active_decorator/pull/106)
