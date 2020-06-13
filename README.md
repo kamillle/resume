@@ -113,17 +113,24 @@ Ruby on Railsを使ったCtoCスキルシェアプラットフォームの開発
   - Ruby on Rails(5.1/5.2/6.0)：2017/11〜現在
   - Sinatora
   - Flask
+  - Vue.js：2020/04〜現在
+  - Nuxt.js：2020/05
 - ミドルウェア
   - MySQL(5.7)：2018/06〜現在
   - Redis：2018/06〜現在
   - PostgreSQL(9.6)：2017/11〜2018/06
   - Elasticsearch：2017/11〜2018/06
+  - Nginx：2019/10〜現在
 - CI/CD
   - CircleCI：2018/06〜現在
   - Jenkins：2018/06〜現在
 - PaaS
   - AWS：2018/06〜現在
-    - ELB
+    - EC2
+    - EKS
+    - Aurora
+    - SQS
+    - ALB, ELB
     - S3
     - Elasticache
   - GCP：2019/06〜2019/08
