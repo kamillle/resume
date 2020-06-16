@@ -44,7 +44,7 @@
 #### 業務内容
 [マネーフォワード クラウドStore](https://biz.moneyforward.com/store)の開発。
 
-基礎設計と共通処理の開発を行った後は、開発メンバー向けのOAuth2.0ハンズオンやコードレビューなどチームの開発サポートを主に行いました。
+基礎設計と共通処理の開発を行った後は、開発メンバー向けのOAuth2.0ハンズオンやコードレビューなどチームの開発サポートを主に行いました。
 
 #### 技術
 - Ruby on Rails(5.2系)
@@ -150,6 +150,9 @@ Ruby on Railsを使ったCtoCスキルシェアプラットフォームの開発
   - Nuxt.js, TypeScript, Cloud Firestore, Firebase Hosting
 
 ## OSS
+### Repository
+- [active_record_encrypted_string](https://github.com/kamillle/active_record_encrypted_string)
+  - String型の暗号化を行うライブラリ
 ### PR
 - [Fix a bug occurs when request spec targets contollers inherited AC::API - amatsuda/active_decorator](https://github.com/amatsuda/active_decorator/pull/106)
 - [Allow Doorkeeper::Application#to_json to work without arguments - doorkeeper-gem/doorkeeper](https://github.com/doorkeeper-gem/doorkeeper/pull/1309)
