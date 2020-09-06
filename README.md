@@ -27,6 +27,7 @@
 - OpenID Connect
 - AWS SQS
 - AWS EKS
+- Terraform
 - Docker
 - CircleCI
 
@@ -109,6 +110,7 @@ Ruby on Railsを使ったCtoCスキルシェアプラットフォームの開発
   - Ruby(2.4/2.5/2.6/2.7)：2017/11〜現在
   - Go(1.12/1.13)：2019/08〜現在
   - Python：2017/05〜2018/01
+  - Terraform：2020/08〜現在
 - フレームワーク
   - Ruby on Rails(5.1/5.2/6.0)：2017/11〜現在
   - Sinatora
