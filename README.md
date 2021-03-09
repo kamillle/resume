@@ -160,5 +160,6 @@ Ruby on Railsを使ったCtoCスキルシェアプラットフォームの開発
 - [Fix ActiveRecord query attribute method when given value does't respond to to_i method - rails/rails](https://github.com/rails/rails/pull/35320)
 
 ## Posts
-- [ブログ](https://kamillle.hatenablog.com/)
+- [個人ブログ](https://kamillle.hatenablog.com/)
 - [accepts_nested_attributes_forを使わず、複数の子レコードを保存する](https://moneyforward.com/engineers_blog/2018/12/15/formobject/)
+- [Kubernetesクラスタ上で動かすSidekiqに対してヘルスチェックを導入した話](https://moneyforward.com/engineers_blog/2021/02/19/kubernetes-sidekiq-healthcheck/)
