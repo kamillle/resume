@@ -9,69 +9,56 @@
   - [Posts](https://github.com/kamillle/resume#posts)
 
 # 職務経歴
-## 株式会社マネーフォワード(2018/08〜現在)
-2018/08よりインターン。2018/10に新卒として入社。
+## 株式会社マネーフォワードケッサイ(2021/04~現在)
 
-開発業務以外では育成業務(新卒)・採用活動(新卒, 中途)にも参加。育成業務では新卒エンジニア1名のメンターを1年間務めました。採用活動では選考フロー内での面接官や内定承諾後の面談, 懇親会などに参加し、候補者・内定者の方とお話する機会を持たせていただいております。
+To be updated.
 
-### マイクロサービス開発(2019/12〜現在)
-#### 業務内容
-開発リーダー兼エンジニア。途中グループ化したので現在はグループリーダー。
+AWS, GCP, Terraform, k8s, Go, Next 辺りが主になる予定。
+
+## 株式会社マネーフォワード(2018/08〜2021/06)
+
+2018/08よりインターンを開始し、2018/10に新卒として入社。
+
+マネーフォワード クラウドというBtoB向けSaaSのシステム全体のアーキテクチャや課題解決を行う横断組織にバックエンドエンジニアとして所属。エンジニアをやりながら共通基盤・マイクロサービスのプロダクトオーナーや新基盤の導入、リプレイスプロジェクトのPjMを務めました。
+
+#### 業務紹介
+
+- 共有データベースを分割するための基盤、マイクロサービスの設計・開発・運用と移行
+  - 課金基盤
+  - アカウント基盤
+- SAML 2.0 導入のための設計・開発
+- OpenID Connect 製の社内認証基盤の導入、機能追加
+- OAuth 2.0 を利用したAPI認証の設計・開発・運用
+- Kubernetes/Docker を利用したクラウドネイティブ環境でのアプリケーション運用
+- Datadog を利用したパフォーマンス計測、改善
+- CI の実行時間の短縮
+- サービス直販のための仕組みの設計・開発
+- 複数の Rails アプリケーションが利用するライブラリのメンテや解体
+- 新卒・中途採用
+- 新卒やインターンのメンター、育成担当
+- チームリーダー
+- 勉強会やハンズオンの開催
 
 #### 技術
-- Ruby on Rails(6系)
+
+- Ruby on Rails(5.1~6系)
 - MySQL(5.7系)
 - Redis
-- Vue.js
-- TypeScript
+- TypeScript, Vue.js, jQuery
 - OpenID Connect
-- AWS SQS
-- AWS EKS
+- OAuth 2.0
+- SAML 2.0
+- OpenAPI
+- GCP
+  - BigQuery
+- AWS
+  - EKS, SQS, ElastiCache, RDS, EC2 など色々
 - Terraform
 - Docker
-- CircleCI
-
-### 共通DBの分離・MySQLのパフォーマンスチューニング
-#### 業務内容
-複数サービスが共通して利用していたDBから一部の移行・移行に伴うアプリケーションコード・UIの修正・BigQueryへの転送などを行いました。
-
-#### 技術
-- Ruby on Rails(5.2系)
-- MySQL(5.7系)
-- BigQuery
-- CircleCI
-
-### 課金システムの開発・運用(2019/06〜2019/11)
-#### 業務内容
-[マネーフォワード クラウドStore](https://biz.moneyforward.com/store)の開発。
-
-基礎設計と共通処理の開発を行った後は、開発メンバー向けのOAuth2.0ハンズオンやコードレビューなどチームの開発サポートを主に行いました。
-
-#### 技術
-- Ruby on Rails(5.2系)
-- MySQL(5.7系)
-- Redis
-- jQuery
-- OAuth2.0
-- OpenAPI
-- CircleCI
-
-### 課金システムの新規開発(2018/10〜2019/06)
-#### 業務内容
-複数サービスが利用する課金・契約管理システムの新規開発と既存システムからのリプレイス。
-2019/01頃からプロジェクトマネージャーを引き継ぎエンジニア兼プロジェクトマネージャーとしてプロジェクトに従事。
-
-エンジニアとしては設計・開発・テスト・コードレビュー・データマイグレーション・複数サービスの改修・ドキュメント整備等、開発業務全般に従事。
-プロジェクトマネージャーとしては開発関係者2~30名ほどのプロジェクトの進捗管理・スケジュール調節に従事。
-
-システムの運用には2019/06~2019/11まで関わり、カスタマサポートチームのサポートや追加の機能開発・修正等も行いました。
-
-#### 技術
-- Ruby on Rails(5.0~5.2系)
-- MySQL(5.7系)
-- jQuery, CoffeeScript
-- CircleCI
+- ArgoCD
 - Jenkins
+- CircleCI
+- GitHub Actions
 
 ## 株式会社Logbii(2018/11〜2019/03)
 ### Webサービス受託開発
@@ -153,13 +140,20 @@ Ruby on Railsを使ったCtoCスキルシェアプラットフォームの開発
 
 ## OSS
 ### Repository
+
 - [active_record_encrypted_string](https://github.com/kamillle/active_record_encrypted_string)
   - String型の暗号化を行うライブラリ
+- [rspec-parameterized-context](https://github.com/alpaca-tc/rspec-parameterized-context)
+  - [rspec-parameterized](https://github.com/tomykaira/rspec-parameterized) のデメリットを解消するためのGem
 ### PR
+
 - [Fix a bug occurs when request spec targets contollers inherited AC::API - amatsuda/active_decorator](https://github.com/amatsuda/active_decorator/pull/106)
 - [Fix ActiveRecord query attribute method when given value does't respond to to_i method - rails/rails](https://github.com/rails/rails/pull/35320)
 
 ## Posts
+
+最近は[Zenn](https://zenn.dev/kamillle)によく投稿しています
+
 - [個人ブログ](https://kamillle.hatenablog.com/)
 - [accepts_nested_attributes_forを使わず、複数の子レコードを保存する](https://moneyforward.com/engineers_blog/2018/12/15/formobject/)
 - [Kubernetesクラスタ上で動かすSidekiqに対してヘルスチェックを導入した話](https://moneyforward.com/engineers_blog/2021/02/19/kubernetes-sidekiq-healthcheck/)
