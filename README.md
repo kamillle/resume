@@ -28,7 +28,7 @@ AWS, GCP, Terraform, k8s, Go, Next 辺りが主になる予定。
 - 共有データベースを分割するための基盤、マイクロサービスの設計・開発・運用と移行
   - 課金基盤
   - アカウント基盤
-- SAML 2.0 導入のための設計・開発
+- SAML 2.0 Service Provider のための設計・開発
 - OpenID Connect 製の社内認証基盤の導入、機能追加
 - OAuth 2.0 を利用したAPI認証の設計・開発・運用
 - Kubernetes/Docker を利用したクラウドネイティブ環境でのアプリケーション運用
