@@ -11,9 +11,9 @@
 # 職務経歴
 ## 株式会社マネーフォワードケッサイ(2021/04~現在)
 
-To be updated.
+新規事業開発チームにて新しいプロダクトや機能のインフラ〜アプリケーションまでの幅広い領域に責任をもち、サービスグロースに取り組んでいます。
 
-AWS, GCP, Terraform, k8s, Go, Next 辺りが主になる予定。
+技術要素はAWS, GCP, Golang, Next.js, Python, Terraformなど様々で、課題解決のために最適な技術を使い分けています。
 
 ## 株式会社Edgey(2021/01~現在)
 
@@ -22,7 +22,7 @@ AWS, GCP, Terraform, k8s, Go, Next 辺りが主になる予定。
 ### 業務・役割
 
 - サービス仕様の開発要件への落とし込み
-- Terraform を用いた AWS インフラの構築
+- Terraform を用いた AWS SSO × マルチアカウント構成の構築
 - Terraform を用いた マイクロサービス構成の AWS サーバーの構築
 - Rails アプリケーションの実装
 
